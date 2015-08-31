@@ -1,0 +1,5 @@
+- id: branch-protection
+  name: Branch Protection
+  description: "Prevents commits and pushes while on certain branches"
+  entry: hooks/branch_protection
+  language: script
